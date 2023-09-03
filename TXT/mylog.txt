@@ -9,17 +9,13 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L41 TXT/mylog.txt related.
 ZCZC W00 60 L10 Assignment #00
-
 ZCZC W00 60 L70 Studying for other courses.
-ZCZC W00 60 L80 Watching: Movie, YouTube, TV, Netflix, etc.
 
 ZCZC W00 5 L00 General, etc.
 ZCZC W00 5 L01 SCELE/Discord related - Reading Announcement Update
 ZCZC W00 90 L32 YouTube: watching OS related topics, etc. - Asynchronous Class
 ZCZC W00 10 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 5 L41 TXT/mylog.txt related.
-
-ZCZC W00 30 L87 Breakfast/Lunch/Dinner/Snake
 
 ZCZC W00 10 L00 General, etc.
 ZCZC W00 10 L01 SCELE/Discord related
