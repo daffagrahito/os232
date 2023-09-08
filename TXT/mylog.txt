@@ -14,16 +14,45 @@ ZCZC W00 60 L70 Studying for other courses.
 ZCZC W00 5 L00 General, etc.
 ZCZC W00 5 L01 SCELE/Discord related - Reading Announcement Update
 ZCZC W00 90 L32 YouTube: watching OS related topics, etc. - Asynchronous Class
-ZCZC W00 10 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 5 L41 TXT/mylog.txt related.
 
 ZCZC W00 10 L00 General, etc.
 ZCZC W00 10 L01 SCELE/Discord related
-ZCZC W00 60 L70 Studying for other courses.
+ZCZC W00 60 L70 Studying for other courses
 ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W00 15 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W00 45 L32 YouTube: watching OS related topics, etc.
-ZCZC W00 15 L05 Quiz related including studying
+ZCZC W00 45 L32 YouTube: watching OS related topics, etc. - Rewatching OS youtube video
+ZCZC W00 90 L05 Quiz related including studying
 ZCZC W00 5 L41 TXT/mylog.txt related.
-ZCZC W00 1 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 5 L04 GitHub Pages related
+
+ZCZC W01 15 L00 General, etc.
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 10 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 10 L03 GitHub related
+ZCZC W01 10 L04 GitHub Pages related
+ZCZC W01 25 L64 Helping a friend (OS related problem)
+ZCZC W01 10 L41 TXT/mylog.txt related.
+ZCZC W01 60 L70 Studying for other courses.
+ZCZC W01 10 L01 SCELE/Discord related - Looking at Updates
+ZCZC W01 5 L09 Assignment in General
+
+ZCZC W01 5 L00 General, etc.
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 25 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 5 L41 TXT/mylog.txt related.
+
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 60 L70 Studying for other courses.
+ZCZC W01 120 L05 Quiz related including studying
+ZCZC W01 45 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 10 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 5 L41 TXT/mylog.txt related.
