@@ -15,5 +15,9 @@ resources for understanding operating system deeper
 * [VIM Commands](https://towardsdatascience.com/vim-tutorial-edit-text-like-a-pro-ea13e45010f5) ---
 Command Tutorials for using VIM editor,
 Resources on keybinds and command for using VIM
+
+* [Regular Expressions](https://regexr.com/) ---
+Resource for Regular Expressions,
+Cheatsheet for understanding regular expressions better
 <br>
 <hr>
