@@ -60,3 +60,5 @@ ZCZC W01 5 L41 TXT/mylog.txt related.
 ZCZC W01 5 L01 SCELE/Discord related - Saturday Week 01
 ZCZC W01 120 L11 Assignment #01
 ZCZC W01 5 L41 TXT/mylog.txt related.
+
+ZCZC W01 10 L04 GitHub Pages related - Sunday Week 01
