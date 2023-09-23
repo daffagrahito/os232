@@ -39,5 +39,22 @@ Supplements to study for quizzez and etc.
 Markdown cheatsheet,
 Resource to learn Markdown for editing (mostly in GitHub)
 
+## WEEK 03
+* [C Programming Language Tutorial](https://www.w3schools.com/c/) ---
+Basics syntax to understand C Language,
+Understading one of the most popular programming language to be used since ages
+
+* [Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) ---
+Learn how to make and use Makefile,
+Makefiles are a simple way to organize C code compilation.
+
+* [PicoCTF](https://picoctf.org/) ---
+A free game-based education to study Cyber Security,
+Learn Linux commands and Cyber Security with games.
+
+* [Linux Disk Partitioning](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) ---
+Short tutorial on Linux disk partitions,
+Resource to understand what is disk partitioning and what is it for in Linux.
+
 <br>
 <hr>
