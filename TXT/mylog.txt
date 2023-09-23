@@ -6,16 +6,18 @@ ZCZC W03 25 L00 General, etc.
 ZCZC W03 30 L01 SCELE/Discord related
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
-ZCZC W03 45 L04 GitHub Pages related
+ZCZC W03 30 L04 GitHub Pages related
 ZCZC W03 150 L05 Quiz related including studying
 ZCZC W03 45 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W03 20 L07 Demo related
+ZCZC W03 15 L07 Demo related
 ZCZC W03 25 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W03 90 L13 Assignment #03
-ZCZC W03 50 L25 C-language including Make.
-ZCZC W03 30 L40 TXT/ related in general.
-ZCZC W03 20 L41 TXT/mylog.txt related.
+ZCZC W03 30 L25 C-language including Make.
+ZCZC W03 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 20 L40 TXT/ related in general.
+ZCZC W03 10 L41 TXT/mylog.txt related.
 ZCZC W03 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 10 L61 Install/Reinstall/Restore/Backup Virtual Box
 
 ZCZC W02 20 L00 General, etc.
