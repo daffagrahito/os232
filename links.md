@@ -56,5 +56,16 @@ Learn Linux commands and Cyber Security with games.
 Short tutorial on Linux disk partitions,
 Resource to understand what is disk partitioning and what is it for in Linux.
 
+## WEEK 04
+* [ChatGPT](https://chat.openai.com/) ---
+An AI to get better understanding of Operating Systems and anything else related to Computer Science.
+
+* [MD5 Checksum explained](https://www.techtarget.com/searchsecurity/definition/MD5#:~:text=The%20MD5%20hash%20function%20was,and%20detect%20unintentional%20data%20corruption.) ---
+An article about MD5 checksum, short explanation about MD5 Checksum and why is it used.
+
+* [Linux Programming Interface Handbook](https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf) ---
+Study resource for Linux and UNIX System Programming Interface,
+get better understanding at LINUX Programming Interface and as a supplementary source of study.
+
 <br>
 <hr>
