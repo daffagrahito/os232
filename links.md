@@ -67,5 +67,17 @@ An article about MD5 checksum, short explanation about MD5 Checksum and why is i
 Study resource for Linux and UNIX System Programming Interface,
 get better understanding at LINUX Programming Interface and as a supplementary source of study.
 
+## WEEK 05
+* [How VirtualBox's Memory Usage Works](https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work) ---
+An online thread of how Virtualbox's memory usage actually works.
+
+* [Intro to Linux Memory Management](https://www.youtube.com/watch?v=2RYT_ZfrYFk) ---
+Understand how does Linux Memory Management actually works.
+
+* [C Memory Addresses](https://www.youtube.com/watch?v=1KVpi0VN82E) ---
+Learn C Memory Addresses in 7 Minutes, basic understanding for doing this week's assignment.
+
+* [Supplementary OS Youtube Playlist](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) ---
+Some supplementary OS Youtube Playlist about Memory Management, Resource for Studying Quiz
 <br>
 <hr>
