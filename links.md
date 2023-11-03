@@ -79,5 +79,21 @@ Learn C Memory Addresses in 7 Minutes, basic understanding for doing this week's
 
 * [Supplementary OS Youtube Playlist](https://www.youtube.com/playlist?list=PLBpMYKycVdGb3tlVlmR9Rmx47p6UOVp7W) ---
 Some supplementary OS Youtube Playlist about Memory Management, Resource for Studying Quiz
+
+## WEEK 06
+* [Fork() by MTU](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html) ---
+Learn what is fork() method in C, by Michigan Technological University.
+
+* [Fork() System Call Tutorial](https://www.youtube.com/watch?v=xVSPv-9x3gk) ---
+Some fork() illustration in a YouTube video to help understand how it works.
+
+* [Fork() in Linux](https://www.youtube.com/watch?v=CaWgJIbwb-4) ---
+Learn what is fork() in Linux
+
+* [Fork() Problems Example](https://cis.temple.edu/~giorgio/old/cis307s95/homeworks/problem1.html#3) ---
+Some supplementary problems and illustration with fork()
+
+* [Fork() Example Problems Youtube Playlist](https://www.youtube.com/playlist?list=PLhqPDa2HoaAZZmS2moH-2K4q4wRJ4Gg7I) ---
+Some supplementary problems and illustration with fork() in a YouTube video
 <br>
 <hr>
