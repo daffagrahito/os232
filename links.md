@@ -95,5 +95,21 @@ Some supplementary problems and illustration with fork()
 
 * [Fork() Example Problems Youtube Playlist](https://www.youtube.com/playlist?list=PLhqPDa2HoaAZZmS2moH-2K4q4wRJ4Gg7I) ---
 Some supplementary problems and illustration with fork() in a YouTube video
+
+## WEEK 07
+* [What is Deadlock in Operating Systems](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) ---
+Website resource to understand what is Deadlock in OS by geeksforgeeks. It contains a lot of subtopics such as Deadlock Detection and Recovery, Banker's Algorithm, Deadlock detection algorithm, Resource Allocation Graph, etc.
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+What is a process Synchronization basically explained in geeksforgeeks. There are also explanations for Race Condition Vulnerability, Critical Section in Synchronization, and Mutual Exclusion in Synchronization. 
+
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/?ref=lbp) ---
+Semaphores in process Synchronization explained in geeksforgeeks. There is also a subtopic of semaphores and its types, some problem solutions using semaphores, and many more.
+
+* [Peterson's Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/?ref=lbp) ---
+This is one of the subtopics of Critical Section Problem Solutions. There is also subtopic of Hardware Synchronization Algorithms: Unlock and Lock, Test and Set, Swap.
+
+* [Process Synchronization and Deadlock Practice Questions](https://www.youtube.com/watch?v=hMA6LWN_IBQ&list=PL0rQdWUGhRqrjIgZAkv3i2QujZzHWwGJC) ---
+Some supplementary videos containing practice problems and solutions for Process Synchronization and Deadlock.
 <br>
 <hr>
