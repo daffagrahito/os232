@@ -111,5 +111,16 @@ This is one of the subtopics of Critical Section Problem Solutions. There is als
 
 * [Process Synchronization and Deadlock Practice Questions](https://www.youtube.com/watch?v=hMA6LWN_IBQ&list=PL0rQdWUGhRqrjIgZAkv3i2QujZzHWwGJC) ---
 Some supplementary videos containing practice problems and solutions for Process Synchronization and Deadlock.
+
+## WEEK 08
+* [Kernotex's Linux From Scratch Youtube Playlist](https://www.youtube.com/watch?v=685qdaX9YQc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A Youtube Playlist of basically step by step on how to work on LFS's assignments explained in details. 
+
+* [Linux From Scratch Website Book](https://www.linuxfromscratch.org/lfs/view/12.0/) ---
+Everything you need to know for basically LFS's things and the main source for this week's assignment.
+
+* [ChatGPT](https://chat.openai.com/) ---
+AI Helper for working on this week's assignment.
+
 <br>
 <hr>
